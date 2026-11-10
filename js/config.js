@@ -1,6 +1,6 @@
 // EDIT ME: business settings used by every page
 window.DSHE={
-  email:"info@safetydshe.co.za",   // confirm this address
+  email:"berto@safetydshe.co.za",   // confirm this address
   endpoint:"/api/submit-enquiry",  // Vercel route. If unreachable, forms fall back to opening an email.
   payments:false                   // set true once Paystack is live AND products below have prices
 };

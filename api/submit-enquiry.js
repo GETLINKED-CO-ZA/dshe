@@ -24,7 +24,7 @@ const shell=(pre,inner)=>`<!doctype html><html lang="en-ZA"><head><meta charset=
 <tr><td style="background:#ffffff;padding:8px 34px 34px;border-left:1px solid #e6e4f0;border-right:1px solid #e6e4f0;color:#161628;font-size:16px;line-height:1.65">${inner}</td></tr>
 <tr><td style="background:#14142b;border-radius:0 0 14px 14px;padding:26px 34px;color:#cfcfe6;font-size:13px;line-height:1.6">
 <b style="color:#ffffff">D-SHE</b><br>Practical safety, health and environmental solutions for South African businesses.<br>
-<a href="mailto:info@safetydshe.co.za" style="color:#ffffff">info@safetydshe.co.za</a> &nbsp;|&nbsp; <a href="${SITE}" style="color:#ffffff">www.safetydshe.co.za</a>
+<a href="mailto:berto@safetydshe.co.za" style="color:#ffffff">berto@safetydshe.co.za</a> &nbsp;|&nbsp; <a href="${SITE}" style="color:#ffffff">www.safetydshe.co.za</a>
 <br><br><span style="font-size:12px;color:#9a9ab8">Personal information you submit is used only to respond to your request, in line with POPIA.</span></td></tr>
 </table></td></tr></table></body></html>`;
 
